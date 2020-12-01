@@ -1,6 +1,6 @@
 # dock2interaction_profile
 
-  This is a simple script to use [plip](https://github.com/pharmai/plip) to batch analysis of interactions between proteins and ligands that are results of smina (vina) docking.
+  This is a simple script to use [plip](https://github.com/pharmai/plip) to **batch analysis** of interactions between proteins and ligands that are results of smina (vina) docking.
 
   Note that you should change the directory settings in the script, you can also change the process number in the script.
 
