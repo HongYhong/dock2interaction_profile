@@ -14,7 +14,9 @@ receptordir='$PWD/receptor'
 analysisdir='$PWD/analysis'
 process_num=8
 
-
+if [ ! -d "$analysisdir" ]; then
+    mkdir ${analysisdir}
+fi
 
 
 for result in ${resultdir}/*
