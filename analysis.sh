@@ -8,9 +8,10 @@
 #author : yanhong hong
 
 
-resultdir='/home/hyh/pliptest/results'
-receptordir='/home/hyh/pliptest/receptor'
-analysisdir='/home/hyh/pliptest/analysis'
+
+resultdir='$PWD/results'
+receptordir='$PWD/receptor'
+analysisdir='$PWD/analysis'
 process_num=8
 
 
